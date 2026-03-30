@@ -62,6 +62,8 @@ To enable max upper bound loss set `use_max_bound = True` when initializing a mo
 
 Multi agent RL setting with training multiple robots a the same time with a single policy. Implementation does not use sensor informaition and only exchanged graph messages are used for navigation.
 
+Read more bout the In-Graph Softmax for MARL implementation [here](https://medium.com/@reinis_86651/learning-graphs-for-marl-on-the-fly-9fe44c356808).
+
 Video of results:
 
 [![EXPERIMENTS](https://img.youtube.com/vi/SGl7sil_dpo/0.jpg)](https://www.youtube.com/watch?v=SGl7sil_dpo)
